@@ -1,6 +1,6 @@
 # Movie Manager
 
-Created using Strapi API and themoviedb
+Movie manager website created using Strapi API and themoviedb
 
 ## Link to website
 
